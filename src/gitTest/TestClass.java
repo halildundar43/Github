@@ -8,8 +8,7 @@ public class TestClass {
 		System.out.println("version");
 		System.out.println("version2");	
 		System.out.println("vv");
-		System.out.println("version3");
-		System.out.println("version4");
+		System.out.println("version3");	
 		
 		System.out.println("ver");
 		System.out.println("vv");
